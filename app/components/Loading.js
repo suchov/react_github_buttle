@@ -1,7 +1,6 @@
-var React = require('react');
-var PropTypes = require('prop-types');
-
-var styles = {
+const React = require('react');
+const PropTypes = require('prop-types');
+const styles = {
   content: {
     textAlign: 'center',
     fontSize: '35px'
